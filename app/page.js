@@ -10,6 +10,7 @@ import Bonuses from "@/components/Bonuses";
 import Audience from "@/components/Audience";
 import FinalCta from "@/components/FinalCta";
 import Delivery from "@/components/Delivery";
+import Guarantee from "@/components/Guarantee";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
 import StickyCta from "@/components/StickyCta";
@@ -30,6 +31,7 @@ export default function LandingPage() {
         <Audience />
         <FinalCta />
         <Delivery />
+        <Guarantee />
         <FAQ />
         <Footer />
       </main>
